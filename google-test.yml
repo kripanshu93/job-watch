@@ -1,0 +1,14 @@
+name: google-test
+on:
+  workflow_dispatch: {}   # manual only: runs when you click Run workflow, never on a schedule
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Try the Google search
+        run: node google-test.mjs

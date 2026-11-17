@@ -1,0 +1,72 @@
+# One company per line, written as ats:slug
+# The slug is the part of the company's job-board URL after the domain:
+#   job-boards.greenhouse.io/twilio  ->  greenhouse:twilio
+#   jobs.lever.co/zoox               ->  lever:zoox
+#   jobs.ashbyhq.com/ramp            ->  ashby:ramp
+# Lines starting with # are ignored. Unknown slugs are reported and skipped.
+
+# Greenhouse
+greenhouse:twilio
+greenhouse:pinterest
+greenhouse:toast
+greenhouse:doma
+greenhouse:antora
+greenhouse:togetherai
+greenhouse:customerio
+greenhouse:asana
+greenhouse:anthropic
+greenhouse:scaleai
+greenhouse:dropbox
+greenhouse:smartsheet
+greenhouse:hightouch
+greenhouse:omadahealth
+greenhouse:bloomreach
+greenhouse:onbe
+greenhouse:stripe
+greenhouse:airbnb
+greenhouse:lyft
+greenhouse:robinhood
+greenhouse:datadog
+greenhouse:figma
+greenhouse:discord
+greenhouse:reddit
+greenhouse:instacart
+greenhouse:coinbase
+greenhouse:brex
+greenhouse:gusto
+greenhouse:affirm
+greenhouse:databricks
+greenhouse:cloudflare
+greenhouse:duolingo
+greenhouse:samsara
+greenhouse:airtable
+greenhouse:carta
+
+# Lever
+lever:zoox
+lever:spotify
+lever:infobase
+lever:onit
+lever:ambirobotics
+lever:bluebottlecoffee
+lever:pattern
+lever:palantir
+
+# Ashby
+ashby:ramp
+ashby:notion
+ashby:linear
+ashby:vercel
+ashby:retool
+ashby:perplexity
+ashby:harvey
+ashby:elevenlabs
+ashby:supabase
+ashby:mercury
+ashby:deel
+ashby:openai
+ashby:replit
+ashby:clay
+ashby:posthog
+ashby:cohere
+ashby:benchling
